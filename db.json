@@ -1,0 +1,16 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "albina",
+      "surname": "Ruslanovna",
+      "tel": "0509021104"
+    },
+    {
+      "id": 3,
+      "name": "albina",
+      "surname": "Ruslanovna",
+      "tel": "0509021104"
+    }
+  ]
+}
